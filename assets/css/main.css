@@ -4,12 +4,6 @@ body{
 	font-size: 18px;
 }
 
-.container{
-	max-width: 950px;
-	margin: auto;
-}
-
-
 /* HEADER */
 .header{
 	background-color: rgba(255, 255, 255, 0.95);
@@ -60,5 +54,26 @@ body{
 
 .row{
 	margin-top: 100px;
+}
+
+.col-md-4{
+	border-bottom: 2px solid #efefef;
+	border-width: 90%;
+}
+
+.col-md-4 h3{
+	font-weight: 700;
+	font-size: 1.5em;
+	color: #0a0a0a;
+}
+
+.col-md-4 p{
+	color: #898989;
+}
+
+.col-md-4 img{
+	width: 25%;
+	height: auto;
+	padding: 10px;
 }
 
