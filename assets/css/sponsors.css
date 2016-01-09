@@ -1,0 +1,21 @@
+.content{
+	padding-top: 200px;
+	text-align: center;
+}
+
+h1{
+	font-weight: 700;
+}
+
+.sponsor img{
+	width: 175px;
+	height: auto;
+}
+
+.sponsor h3{
+	font-weight: 700;
+}
+
+.sponsor p{
+	font-size: .85em;
+}

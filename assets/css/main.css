@@ -59,6 +59,7 @@ body{
 .col-md-4{
 	border-bottom: 2px solid #efefef;
 	border-width: 90%;
+	height: 200px;
 }
 
 .col-md-4 h3{
@@ -75,5 +76,11 @@ body{
 	width: 25%;
 	height: auto;
 	padding: 10px;
+}
+
+/* FOOTER */
+footer{
+	text-align: center;
+	color: #898989;
 }
 
