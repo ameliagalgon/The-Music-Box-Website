@@ -40,3 +40,32 @@ h1{
 	font-size: .85em;
 	margin: 0 10px;
 }
+
+.event_list{
+	margin: 10px 0 10px 0;
+}
+
+.event_list h2{
+	font-size: 1.5em;
+	text-align: center;
+	font-weight: bold;
+	padding: 10px 0;
+}
+
+.event_list li{
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+.event_list .event_block{
+	background-color: #dfdfdf;
+	margin-left: 15px;
+}
+
+.event_list .event_block p{
+	display: inline;
+	float: left;
+	height: auto;
+	margin: auto;
+	font-size: 1.2em;
+}
